@@ -58,3 +58,8 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 ## JS获取设备信息开源库
 https://github.com/skillnull/DeviceJs
 JS获取设备信息(操作系统信息、地理位置、UUID、横竖屏状态、设备类型、网络状态、浏览器信息、生成浏览器指纹、日期、周几等)
+
+
+## Astro学习网站
+
+https://docs.astro.build/zh-cn/guides/client-side-scripts/
