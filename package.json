@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/node": "^5.1.1",
     "@skillnull/device-js": "^1.1.9",
+    "@supercharge/request-ip": "^1.2.0",
     "astro": "^2.2.1"
   }
 }
