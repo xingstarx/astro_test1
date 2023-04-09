@@ -6,6 +6,19 @@ console.log(Date());
 
 <div>
   Today is {Date}.
+  <input id="#device_id" type="hidden"/>
 </div>
+
+
+<script>
+  import Device from '@skillnull/device-js'
+
+  Device.Info({
+    info: ['UUID']
+  }).then(data => {
+    document.getElementById('#device_id').value = data.UUID;
+    console.log(data.UUID)
+  })
+</script>
 
 
